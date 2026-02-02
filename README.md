@@ -1,4 +1,4 @@
-# PowerBI
+# Diversity & Inclusion Dashboard (PowerBI)
 📌 Project Overview
 
 This project focuses on analyzing Diversity & Inclusion (D&I) metrics using Power BI to help organizations understand workforce composition, gender balance, promotion trends, and inclusion indicators across departments and job levels.
